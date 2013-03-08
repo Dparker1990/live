@@ -6,12 +6,13 @@ gem 'arel'
 gem 'railties'
 
 gem 'pg'
-gem 'thin'
+gem 'puma'
 gem 'bcrypt-ruby', '3.0.1'
 gem 'rmagick'
 gem 'therubyracer'
 gem 'decent_exposure'
 gem 'haml-rails'
+gem 'rb-fsevent'
 
 group :development, :test do
   gem 'execjs'
