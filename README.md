@@ -1,4 +1,5 @@
-== "Live" test project
+"Live" test project
+===================
 
 A simple test app used to demonstrate `ActionController::Live`.
 
